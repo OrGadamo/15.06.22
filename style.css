@@ -1,0 +1,12 @@
+#container {
+  height: 50vh;
+  position: relative;
+  border: 1px solid black;
+}
+#element_create {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: none;
+  position: absolute;
+}
